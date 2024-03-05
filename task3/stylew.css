@@ -1,0 +1,77 @@
+@import 'https://fonts.googleapis.com/css?family=Fjalla+One';
+
+
+body { 
+  font-family: 'Fjalla One', sans-serif;
+	background: url("data:image/jpeg;base64,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") no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	padding-top: 10%;
+  text-align: center;
+}
+
+#dataBoard {
+  border-left: 6px solid #F09020;
+	margin: auto;
+	background-color: rgba(225, 225, 225, 0.8);
+	display: block;
+	border-radius: 5px;
+	height: 80%;
+	width: 80%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  max-width: 500px;
+}
+
+#dataBox {
+  overflow: hidden;
+}
+
+#searchBox {
+	display: block;
+	background-color: white;
+	min-height: 50px;
+	width: 100%;
+  overflow: hidden;
+  height: 50px;
+  padding-left:10px;
+}
+
+button {
+  color: white;
+  display: block;
+  background: black;
+  border: 2px solid white;
+  float: right;
+    width: 30%;
+  min-height: 50px;
+}
+
+button:hover {
+  opacity: 0.5;
+  color:#F09020;
+  border-color:#F09020;
+}
+
+input {
+  display: block;
+  float: left;
+  background: transparent;
+  border-style: none;
+  min-height: 50px;
+  width: 69%;  
+}
+
+#mainInfo {
+  background-color: #C9C9C9;
+  padding: 10px;
+  text-align: right;
+}
+#secoInfo {
+  padding: 10px;
+  text-align: left;
+}
+img {  
+  border-style: none;
+}
